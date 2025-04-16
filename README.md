@@ -1,16 +1,12 @@
-# weather_app
+# Weather App by Summit Global
 
-A new Flutter project.
+Project Flutter untuk Test Rekrutment
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Take a Notes
+- Warna pada projek ini diambil menggunakan color picker yang diarahkan ke slicing design, keakuratan warna dan gradient tidak bisa dipastikan
+  100% tepat sesuai tujuan
+- Saya tidak mengetahui jenis font apa yang digunakan pada design, sehingga saya menggunakan set font yang saya miliki, yaitu satoshi
+- Gambar awal pada splash page saya dapatkan dengan cara saya crop dari design, meremove background, dan terakhir di upscale agar gambar
+  lebih jernih.
+- Terdapat fitur tambahan pada navigation bar, apabila bar ditekan maka warna nya akan berubah tetapi tidak diarahkan ke page apapun (tetap
+  pada page home)
